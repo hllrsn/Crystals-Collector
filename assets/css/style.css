@@ -5,7 +5,7 @@ body {
 }
 
 div {
-	background-color: darkslateblue;
+	background: darkslateblue;
 	color: snow;
 	margin: 20px;
 	width: 25%;
@@ -15,8 +15,8 @@ div {
 
 h1 {
 	font-weight: bold;
-	text-align: center;
 	font-size: 50px;
+	text-align: center;
 }
 
 h3, span {
@@ -32,7 +32,7 @@ ul {
 
 /*header block*/
 div.header {
-	background-color: thistle;
+	background: thistle;
 	color: #202020;
 	width: 50%;
 }
@@ -44,7 +44,7 @@ div.instructions {
 
 /*gems block*/
 div.gems {
-	background-color: #e0e0eb;
+	background: #e0e0eb;
 	color: thistle;
 	text-align: center;
 }
