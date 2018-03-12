@@ -1,5 +1,5 @@
 body {
-	background-image: url("../images/background.jpg");
+	background: url("../images/background.jpg") #120321;
 	background-size: 100%;
 	font-family: 'Berkshire Swash', cursive;
 }
