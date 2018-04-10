@@ -1,6 +1,7 @@
 body {
 	background: url("../images/background.jpg") #120321;
 	background-size: 100%;
+	background-attachment: fixed;
 	font-family: 'Berkshire Swash', cursive;
 }
 
